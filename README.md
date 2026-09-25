@@ -1,2 +1,1 @@
-# si676-projects
-SI 676 projects
+This repo is for course activities in SI 676
